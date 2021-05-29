@@ -1,0 +1,14 @@
+{
+  "profiles": {
+    "Mon jeu": {
+      "commandName": "Executable",
+      "executablePath": "C:\\Users\\guill\\Documents\\TutoRPGHeartBeast\\TutoRPGHeartBeast.exe",
+      "workingDirectory": "C:\\Users\\guill\\Documents\\TutoRPGHeartBeast"
+    },
+    "TutoRPGHeartBeast": {
+      "commandName": "Executable",
+      "executablePath": "C:\\Users\\guill\\Documents\\TutoRPGHeartBeast\\Mon jeu.exe",
+      "workingDirectory": "C:\\Users\\guill\\Documents\\TutoRPGHeartBeast"
+    }
+  }
+}
